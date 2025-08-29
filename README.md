@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=remmintan&project=minefortress&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 ![the mod that will turn your Minecraft into real-time strategy](docs/main-banner.png)
 # MineFortress
 [![Support the project](https://img.shields.io/badge/PATREON-SUPPORT_THE_PROJECT-f96854?style=for-the-badge&logo=patreon&logoColor=f96854&labelColor=052d49&color=f96854)](https://www.patreon.com/minefortress)
